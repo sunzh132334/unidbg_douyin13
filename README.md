@@ -1,6 +1,7 @@
 # unidbg_douyin12
 
-#### 基于unidbg的douyin12 0408 gorgon xlog,不开源，有需要可以单独沟通
+#### 基于unidbg的douyin12 0408 gorgon,敏感话题不开源，不公开讨论，技术问题可以直接去原项目 [https://github.com/zhkl0228/unidbg/issues] ，这是一个非常优秀的项目。
+#### 有其它需要可以单独沟通
 
 #### 0401搜unidbg_douyin10
 
