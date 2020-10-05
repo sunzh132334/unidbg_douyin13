@@ -9,6 +9,8 @@
 
 #### 0401搜unidbg_douyin10
 
+#### 本地运行，测试DEMO已经更新
+
 
 本DEMO项目基于 unicorn 和 参考ExAndroidNativeEmu 个人学习使用。
 
