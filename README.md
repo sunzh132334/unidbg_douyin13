@@ -4,7 +4,7 @@
 这是一个非常优秀的项目，敬佩作者的技术能力之强。
 
 
-#### 有其它开发需求或需要0401 0408 8408并发完整、xlog(收费)解决方案的可以单独沟通
+#### 有其它开发需求或需要0401 0408 8408并发完整、xlog(收费)解决方案的可以单独沟通 satnglove@gmail.com
 xiaomi channel 13.0 apk  链接: https://pan.baidu.com/s/1aLEiWV0ZbX8jWbEeLgOHoA 提取码: 9s56 
 
 #### 0401搜unidbg_douyin10
