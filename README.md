@@ -7,6 +7,10 @@
 #### 有开发定制需求，xlog(收费)解决方案的可以单独沟通 satnglove@gmail.com
 xiaomi channel 13.0 apk  链接: https://pan.baidu.com/s/1aLEiWV0ZbX8jWbEeLgOHoA 提取码: 9s56 
 
+
+#### 答疑:最终的分析要ida和unidbg结合一起用。
+
+
 #### 0401搜unidbg_douyin10
 
 #### 本地运行，测试DEMO已经更新 
