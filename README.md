@@ -1,5 +1,8 @@
 # unidbg_douyin13
 
+13.0是最后一版了，不在更新。13.345已经换了新的加固。
+
+
 #### 基于unidbg的douyin13 0408/8408 gorgon,敏感话题不开源，不公开讨论，技术问题可以直接去原项目, [https://github.com/zhkl0228/unidbg/issues] 
 这是一个非常优秀的项目，敬佩作者的技术能力之强。
 
